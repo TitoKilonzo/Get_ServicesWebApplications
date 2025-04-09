@@ -57,8 +57,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 [Include your license information here]
 
 ## Contact
-- GitHub: [@TitoKilonzo](https://github.com/TitoKilonzo)
-- Email: [Your email]
+- GitHub:
+- Email: titokilonzo3@gmail.com
 
 ## Acknowledgements
 [Include any acknowledgements here]
